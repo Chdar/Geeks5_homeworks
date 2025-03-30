@@ -1,0 +1,13 @@
+
+
+.clicked {
+    color: red;
+    transition: 1s;
+    :active {
+        transform: scale(1.2);
+    }
+}
+
+.clickedTwo {
+    color: green;
+}
